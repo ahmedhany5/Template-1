@@ -82,7 +82,7 @@
 
 /* Start landing */
 .landing {
-    background-image: url(/Images/download.jpg);
+    background-image: url(./Images/download.jpg);
     background-size: cover;
     height: calc(100vh - 60px);
     padding-top: var(--padding);
